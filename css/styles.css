@@ -5,7 +5,7 @@
 
 
 .jumbotron{
-    background: url(../imgs/stock\ backgrounds.jpg) no-repeat;
+    background: url(../imgs/stock\ backgrounds.jpg) center center no-repeat;
     background-size:cover;
     height:600px;
 }
