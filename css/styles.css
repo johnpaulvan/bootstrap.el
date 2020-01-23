@@ -9,3 +9,17 @@
     background-size:cover;
     height:600px;
 }
+.text{
+    text-align:center;
+    padding-top:70px;
+}
+.pic_row{
+    background-color:grey;
+}
+.sep{
+    margin-top:25px;
+    margin-bottom:40px;
+}
+.tea{
+    text-align:center;
+}
