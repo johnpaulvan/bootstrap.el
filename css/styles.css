@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab|Six+Caps&display=swap');
+
+/* font-family: 'Six Caps', sans-serif; */
+/* font-family: 'Roboto Slab', serif; */
+
+
+.jumbotron{
+    background: url(../imgs/stock\ backgrounds.jpg) no-repeat;
+    background-size:cover;
+    height:600px;
+}
